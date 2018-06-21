@@ -13,7 +13,7 @@
 <li>VCS: Git</li>
 </ul>
 
-<p>You can check my portfolio here (with direct links and links to github repositories):<br>https://nextwebdeveloper.github.io/</p>
+<p>You can check my <strong>portfolio</strong> here (with direct links and links to github repositories):<br>https://nextwebdeveloper.github.io/</p>
 
 <p>For collaborations you can get in touch with me in any preferred way:<br>
 <i>LinkedIn: </i>https://www.linkedin.com/in/dmitry-toshchev-4baa39165<br>
