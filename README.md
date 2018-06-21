@@ -6,15 +6,16 @@
 <p>Here are my <strong>experience and skills:</strong></p>
 <ul>
 <li>Core web: HTML5, CSS3, JavaScript</li>
--Frameworks: jQuery, Bootstrap 4
--Preprocessors: Sass, SCSS, LESS
--Build system: Gulp
--Package managers: npm, bower
--VCS: Git
+<li>Frameworks: jQuery, Bootstrap 4</li>
+<li>Preprocessors: Sass, SCSS, LESS</li>
+<li>Build system: Gulp</li>
+<li>Package managers: npm, bower</li>
+<li>VCS: Git</li>
 </ul>
-For collaborations you can get in touch with me in any preferred way:
-<i>LinkedIn:</i>https://www.linkedin.com/in/dmitry-toshchev-4baa39165
-<i>Facebook:</i>https://www.facebook.com/people/Dmitry-Toshchev/100011427838572
-<i>E-mail:</i>dt.webwork@gmail.com
-<i>Phone:</i>+79633619371
+<p>For collaborations you can get in touch with me in any preferred way:<br>
+<i>LinkedIn:</i>https://www.linkedin.com/in/dmitry-toshchev-4baa39165<br>
+<i>Facebook:</i>https://www.facebook.com/people/Dmitry-Toshchev/100011427838572<br>
+<i>E-mail:</i>dt.webwork@gmail.com<br>
+<i>Phone:</i>+79633619371<br>
 <i>VK.com:</i>https://vk.com/id16689406
+</p>
