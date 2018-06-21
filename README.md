@@ -13,9 +13,9 @@
 <li>VCS: Git</li>
 </ul>
 <p>For collaborations you can get in touch with me in any preferred way:<br>
-<i>LinkedIn:</i>https://www.linkedin.com/in/dmitry-toshchev-4baa39165<br>
-<i>Facebook:</i>https://www.facebook.com/people/Dmitry-Toshchev/100011427838572<br>
-<i>E-mail:</i>dt.webwork@gmail.com<br>
-<i>Phone:</i>+79633619371<br>
-<i>VK.com:</i>https://vk.com/id16689406
+<i>LinkedIn: </i>https://www.linkedin.com/in/dmitry-toshchev-4baa39165<br>
+<i>Facebook: </i>https://www.facebook.com/people/Dmitry-Toshchev/100011427838572<br>
+<i>E-mail: </i>dt.webwork@gmail.com<br>
+<i>Phone: </i>+79633619371<br>
+<i>VK.com: </i>https://vk.com/id16689406
 </p>
