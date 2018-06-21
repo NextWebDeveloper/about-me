@@ -12,6 +12,10 @@
 <li>Package managers: npm, bower</li>
 <li>VCS: Git</li>
 </ul>
+
+<p>You can check my portfolio here (with direct links and links to github repositories):</p>
+https://nextwebdeveloper.github.io/
+
 <p>For collaborations you can get in touch with me in any preferred way:<br>
 <i>LinkedIn: </i>https://www.linkedin.com/in/dmitry-toshchev-4baa39165<br>
 <i>Facebook: </i>https://www.facebook.com/people/Dmitry-Toshchev/100011427838572<br>
